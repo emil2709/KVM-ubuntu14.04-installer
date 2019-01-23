@@ -4,6 +4,6 @@ First you need to have KVM installed on your system
 
 **chmod +rx installer.sh**
 
-**./installer**
+**./installer.sh**
 
 Then follow the message on screen
